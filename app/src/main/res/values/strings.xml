@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ЕГЭ</string>
+    <string name="textView">ВЫБЕРИТЕ ВАРИАНТ</string>
+    <string name="button0">Вариант 0</string>
+    <string name="button">Вариант 1</string>
+    <string name="button1">Вариант 2</string>
+    <string name="button2">Вариант 3</string>
+    <string name="button5">Вариант 4</string>
+    <string name="textview2">1.</string>
+    <string name="textview1">Вариант 1</string>
+    <string name="textview">2.</string>
+    <string name="edit">Введите ответ</string>
+    <string name="result">Завершить и узнать ответ</string>
+
+</resources>
